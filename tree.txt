@@ -1,0 +1,13 @@
+.
+├── controller
+│   └── video_controller.go
+├── entity
+│   └── video.go
+├── go.mod
+├── go.sum
+├── server.go
+├── service
+│   └── video_service.go
+└── tree.txt
+
+3 directories, 7 files
